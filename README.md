@@ -7,11 +7,11 @@ Web App To Scrap The Reviews Of Customer On Any Product Available On Flipkart
 ## Screenshots
 
  <p align="center">
-  <img width="500" height="700" src="https://github.com/ItsSuru/Review-Scrapper-Flipkart/blob/master/rev1.PNG">
+  <img width="500" height="600" src="https://github.com/ItsSuru/Review-Scrapper-Flipkart/blob/master/rev1.PNG">
  </p>
 
  <p align="center">
-  <img width="500" height="700" src="https://github.com/ItsSuru/Review-Scrapper-Flipkart/blob/master/rev2.PNG">
+  <img width="500" height="600" src="https://github.com/ItsSuru/Review-Scrapper-Flipkart/blob/master/rev2.PNG">
  </p>
 
 ## Technologies used
