@@ -2,7 +2,7 @@
 
 ## General info
 
-Web App To Scrap The Reviews Of Customer On Any Product Available On Flipkart
+This Web App can scrap ✂️ the reviews of customers 👨‍👨‍👦 on any product available on Flipkart 📱 using beautifulsoup library and then arranging it into the web page 🧾 that is been created. This app may fail to show you the result if flipkart site updates. 
 
 ## Screenshots
 
